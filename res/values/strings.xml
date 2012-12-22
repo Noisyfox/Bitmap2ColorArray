@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bitmap2ColorArray</string>
+    <string name="menu_settings">设置</string>
+    <string name="bat">批量转换</string>
+    <string name="input">输入</string>
+    <string name="browse">浏览</string>
+    <string name="input_hint">请输入图像文件或包含图像文件的文件夹路径</string>
+    <string name="output_samedir">同一个目录下输出</string>
+    <string name="output">输出</string>
+    <string name="output_hint">选择输出文件夹</string>
+    <string name="process">开始输出</string>
+
+</resources>
